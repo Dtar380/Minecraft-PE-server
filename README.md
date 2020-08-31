@@ -1,1 +1,1 @@
-# Minecraft-PE-server
+# Minecraft PE server
